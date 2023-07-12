@@ -224,8 +224,9 @@ puts "qual sua idade?"
 idade= gets
 
 correção= idade.to_i
-
-if correção < 0
+puts correção.class
+if correção <= 0
+    puts "insira uma idade valida"
     return 0
 end
 if correção < 18 
