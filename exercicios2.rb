@@ -166,15 +166,9 @@ puts mensagem
 
 #16
 
-nota = 9
-
-if nota >=7
-    puts "aprovado"
-elsif nota >=5
-    puts "recuperação"
-else
-    puts "reprovado"
-end
+nota=8
+resultado=nota>=7 ? "aprovaodo" :(nota>=5 ? "recuperação" : "reprovado")  
+puts resultado
 
 #17
 
