@@ -76,7 +76,7 @@
     
 # end 
 
-#10{verificar}
+#10
 
 #  contador= 1
 
