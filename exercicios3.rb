@@ -69,9 +69,9 @@
 
 # contador=1
 
-#  while contador <= 7
+#  while contador <= 10
 #      puts contador 
-#      redo if contador == 5
+#      redo if contador == 7
 #     contador +=1
     
 # end 
